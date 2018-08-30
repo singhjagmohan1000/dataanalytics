@@ -1,6 +1,7 @@
 # Learn Data Analysis -- Course by [Udacity](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 ## Tools to be Used
    *	python
+        * I have used python3
    * 	jupyter-notebook
         * `python -m pip install jupyter`
         * [Jupyter](http://jupyter.org/install)

@@ -7,4 +7,7 @@
 3. Any Consistent trends across countries?
 4. Life Expectancy in US versus India?
 5. Highest per capita GDP in world?
-6. Which countrries has more female completion rate than male? 
+6. Which countries has more female completion rate than male? 
+
+
+##### This code and data is downloaded from [Udacity](https://www.udacity.com/course/intro-to-data-analysis--ud170)

@@ -7,6 +7,8 @@
         * [Jupyter](http://jupyter.org/install)
    *	numpy
    *	pandas
+   *    matplotlib
+   *	seaborn
 ### Download All of the above packages using                             [Anaconda](https://anaconda.org/anaconda/python)
 
 ## First Run 
